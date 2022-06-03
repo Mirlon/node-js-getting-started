@@ -4,3 +4,13 @@ body{
 .red{
     color: brown;
 }
+#table-2{
+    position: absolute;
+    top: 94px;
+    left: 350px;
+}
+#table-3{
+    position: absolute;
+    top: 400px ;
+    left: 350px;
+}
